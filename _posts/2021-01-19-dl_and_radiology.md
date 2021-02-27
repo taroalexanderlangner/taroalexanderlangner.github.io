@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep Learning in Radiology
+title: Deep Learning and Radiology
 subtitle: The learning never ends
 cover-img: /assets/img/nasten.jpeg
 thumbnail-img: /assets/img/thumb_coyote.png
